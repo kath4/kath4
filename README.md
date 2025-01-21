@@ -13,9 +13,9 @@
 - 🛠️ Tecnologías y Herramientas
 
 <ul>Lenguajes: Java, JavaScript, HTML/CSS, SQL</ul>
-Frameworks: Selenium
-Bases de datos: MySQL
-Control de versiones: Git, GitHub
+<ul>Frameworks: Selenium</ul>
+<ul>Bases de datos: MySQL</ul>
+<ul>Control de versiones: Git, GitHub</ul>
 
 ## Habilidades 
 - 🤝 Trabajo en equipo: Colaborativa y siempre dispuesta a aprender de los demás. 

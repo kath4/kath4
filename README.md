@@ -1,7 +1,7 @@
 👋 Hola, soy Katherin
 👩‍💻 Ingeniera de Sistemas |Egresada de QA Testing | Apasionada por la Tecnología y la Enseñanza.
 
-📌 Acerca de mí
+## 📌 Acerca de mí
 
 💻 Soy Ingeniera de Sistemas con experiencia en PHP, HTML, CSS y JavaScript para desarrollo web básico.
 🌟 Me encuentro en proceso de aprendizaje en herramientas de automatización y desarrollo como Selenium, JUnit, Appium, JMeter, y Java, así como en la ejecución de pruebas funcionales y conceptos avanzados de QA Testing.

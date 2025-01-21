@@ -12,7 +12,7 @@
 <ul>🚀 Aprendiendo inglés para ampliar mis oportunidades profesionales.</ul>
 <ul>🛠️ Tecnologías y Herramientas</ul>
 
-- Lenguajes: Java, JavaScript, HTML/CSS, SQL
+<ul>- Lenguajes: Java, JavaScript, HTML/CSS, SQL</ul>
 - Frameworks: Selenium
 - Bases de datos: MySQL
 - Control de versiones: Git, GitHub

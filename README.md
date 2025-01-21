@@ -3,14 +3,14 @@
 
 ## 📌 Acerca de mí
 
- - 💻 Soy Ingeniera de Sistemas con experiencia en PHP, HTML, CSS y JavaScript para desarrollo web básico.
-- 🌟 Me encuentro en proceso de aprendizaje en herramientas de automatización y desarrollo como Selenium, JUnit, Appium, JMeter, y Java, así como en la ejecución de pruebas funcionales y conceptos avanzados de QA Testing.
-- 🚀 Mi meta es consolidar mis habilidades en automatización de pruebas y profundizar en el desarrollo de aplicaciones web modernas.
+<ul> 💻 Soy Ingeniera de Sistemas con experiencia en PHP, HTML, CSS y JavaScript para desarrollo web básico.</ul>
+<ul>🌟 Me encuentro en proceso de aprendizaje en herramientas de automatización y desarrollo como Selenium, JUnit, Appium, JMeter, y Java, así como en la ejecución de pruebas funcionales y conceptos avanzados de QA Testing.</ul>
+<ul>🚀 Mi meta es consolidar mis habilidades en automatización de pruebas y profundizar en el desarrollo de aplicaciones web modernas.</ul>
 
 ## 📘 Intereses actuales
 
-- 🚀 Aprendiendo inglés para ampliar mis oportunidades profesionales.
-- 🛠️ Tecnologías y Herramientas
+<ul>🚀 Aprendiendo inglés para ampliar mis oportunidades profesionales.</ul>
+<ul>🛠️ Tecnologías y Herramientas</ul>
 
 <ul>Lenguajes: Java, JavaScript, HTML/CSS, SQL</ul>
 <ul>Frameworks: Selenium</ul>
@@ -18,7 +18,7 @@
 <ul>Control de versiones: Git, GitHub</ul>
 
 ## Habilidades 
-- 🤝 Trabajo en equipo: Colaborativa y siempre dispuesta a aprender de los demás. 
-- 🗣️ Comunicación: Capaz de explicar conceptos técnicos de manera clara. 
-- 👩‍💼 Liderazgo: Disfruto liderando iniciativas y fomentando la colaboración.
-- 💡 Siempre en busca de nuevos retos y oportunidades para crecer profesionalmente.
+<ul>🤝 Trabajo en equipo: Colaborativa y siempre dispuesta a aprender de los demás.</ul>
+<ul>🗣️ Comunicación: Capaz de explicar conceptos técnicos de manera clara. </ul>
+<ul>👩‍💼 Liderazgo: Disfruto liderando iniciativas y fomentando la colaboración.</ul>
+<ul>💡 Siempre en busca de nuevos retos y oportunidades para crecer profesionalmente.</ul>

@@ -12,10 +12,10 @@
 <ul>🚀 Aprendiendo inglés para ampliar mis oportunidades profesionales.</ul>
 <ul>🛠️ Tecnologías y Herramientas</ul>
 
-<ul><ul>Lenguajes: Java, JavaScript, HTML/CSS, SQL</ul></ul>
-<ul>Frameworks: Selenium</ul>
-<ul>Bases de datos: MySQL</ul>
-<ul>Control de versiones: Git, GitHub</ul>
+- Lenguajes: Java, JavaScript, HTML/CSS, SQL
+- Frameworks: Selenium
+- Bases de datos: MySQL
+- Control de versiones: Git, GitHub
 
 ## Habilidades 
 <ul>🤝 Trabajo en equipo: Colaborativa y siempre dispuesta a aprender de los demás.</ul>

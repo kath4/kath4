@@ -3,7 +3,7 @@
 
 ## 📌 Acerca de mí
 
- <li>💻 Soy Ingeniera de Sistemas con experiencia en PHP, HTML, CSS y JavaScript para desarrollo web básico.</li>
+ - 💻 Soy Ingeniera de Sistemas con experiencia en PHP, HTML, CSS y JavaScript para desarrollo web básico.
 🌟 Me encuentro en proceso de aprendizaje en herramientas de automatización y desarrollo como Selenium, JUnit, Appium, JMeter, y Java, así como en la ejecución de pruebas funcionales y conceptos avanzados de QA Testing.
 🚀 Mi meta es consolidar mis habilidades en automatización de pruebas y profundizar en el desarrollo de aplicaciones web modernas.
 

@@ -1,4 +1,4 @@
-👋 Hola, soy Katherin
+## 👋 Hola, soy Katherin
 👩‍💻 Ingeniera de Sistemas |Egresada de QA Testing | Apasionada por la Tecnología y la Enseñanza.
 
 ## 📌 Acerca de mí
